@@ -1,4 +1,4 @@
-package ChainOfResponsability;
+package chainOfResponsability;
 
 public class SMS extends Notifier{
     @Override

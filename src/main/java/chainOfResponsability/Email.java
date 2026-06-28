@@ -1,4 +1,4 @@
-package ChainOfResponsability;
+package chainOfResponsability;
 
 public class Email extends Notifier{
     public Email(int priority) {

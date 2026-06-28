@@ -1,4 +1,4 @@
-package Proxy;
+package proxy;
 
 public class ProxyProject implements Project{
     private String url;

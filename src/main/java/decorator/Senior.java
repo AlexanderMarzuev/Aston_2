@@ -1,4 +1,4 @@
-package Decorator;
+package decorator;
 
 public class Senior extends DevDecorator{
     public Senior(Developer developer) {

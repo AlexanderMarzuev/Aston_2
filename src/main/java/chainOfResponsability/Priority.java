@@ -1,4 +1,4 @@
-package ChainOfResponsability;
+package chainOfResponsability;
 
 public class Priority {
     public static final int ROUTINE = 1;

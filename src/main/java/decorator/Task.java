@@ -1,4 +1,4 @@
-package Decorator;
+package decorator;
 
 public class Task {
     public static void main(String[] args) {

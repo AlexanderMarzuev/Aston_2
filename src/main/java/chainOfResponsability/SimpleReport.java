@@ -1,4 +1,4 @@
-package ChainOfResponsability;
+package chainOfResponsability;
 
 public class SimpleReport extends Notifier{
     public SimpleReport(int priority) {

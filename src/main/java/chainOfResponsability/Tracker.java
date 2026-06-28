@@ -1,4 +1,4 @@
-package ChainOfResponsability;
+package chainOfResponsability;
 
 public class Tracker {
     public static void main(String[] args) {
